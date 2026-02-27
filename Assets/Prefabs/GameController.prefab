@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1626957252325157005
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1626957252325157006}
+  - component: {fileID: 1626957252325157007}
+  - component: {fileID: 1626957252325157004}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1626957252325157006
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1626957252325157005}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1626957252325157007
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1626957252325157005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 201579074c4a07e448b8cc7677056b33, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  grid: {fileID: 0}
+  terrainMap: {fileID: 0}
+  indicatorMap: {fileID: 0}
+  obstacleLayer: {fileID: 0}
+  allies:
+  - {fileID: 0}
+  enemies:
+  - {fileID: 0}
+  repaintIndicators: 0
+--- !u!114 &1626957252325157004
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1626957252325157005}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 58ad44f0f92aedd4b981014ce5b9db65, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tileWalkIndicator: {fileID: 11400000, guid: 77400161a01290747a73f9ffd1e9fd73, type: 2}
+  tileAttackIndicator: {fileID: 11400000, guid: 42bf4cae1007892478a6e3a7645efe36, type: 2}
+  tileNeutralIndicator: {fileID: 11400000, guid: 07f8893d143b1b842a64a9c4889600a3, type: 2}
+  tilePlain: {fileID: 11400000, guid: 84b3fbc3b2eaffd4ab9326657e1f4828, type: 2}
+  tileMud: {fileID: 11400000, guid: ab7135bcdddb04b4bae02115e3b54e18, type: 2}
+  tileStone: {fileID: 11400000, guid: bc44ec1335a1c6542a9c7d0173b6c9db, type: 2}
+  tileSand: {fileID: 11400000, guid: 92e3d2c5580da8b49879af9ee531f898, type: 2}
+  tileIce: {fileID: 11400000, guid: 0dcd5ab24534be049bcd1f0f126c03bb, type: 2}
+  tree: {fileID: 2383294875783133616, guid: 1664e7b99aff0aa46bc4ea016a91c34c, type: 3}
+  mountain: {fileID: 837476967052433066, guid: e63738d59249e9e4ca9cca31e3b10012, type: 3}
+  house: {fileID: 7301770751637822285, guid: 54202d59e21f56645b1dbbb0d1536bf7, type: 3}

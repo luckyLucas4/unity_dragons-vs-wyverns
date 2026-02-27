@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: 397f54ac9647cf14183b253c05fd02ca
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plains
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26cd9706fa92d3642b59e1bec7a85e3d
+      internalID: 1044988923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a0583c676a2334f8ba90039105aa60
+      internalID: 2127318303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainsM
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 108
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a51ce681448e7d46924738018091833
+      internalID: 500991174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fe0a4b3bd2ece4393995b42eb790b9
+      internalID: 881599047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainsT
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 108
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2b69da809fab0440bf0cdd802e06868
+      internalID: 122700423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 108
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05b024a27db5a644897a2413a16df27
+      internalID: 2057943315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainsH
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abf861e68f47fa419c505459c769f7f
+      internalID: 1353577829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mud
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e465fc6de789e64087b83cbda2e4f6b
+      internalID: 1185394733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 88
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e895e12bbbabd043abe6f754e6b3bfd
+      internalID: 1202060964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudM
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 88
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fc771196183e9a4399b6aa0d36ec538
+      internalID: 58545801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 88
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f23ea6a98f684b48b1050c9e76f319f
+      internalID: -1564726099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudT
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 88
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85274a6189ebbbf4aa9c68c32834e31d
+      internalID: -1412203328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 88
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e379bbec35c544986498d815757db5
+      internalID: 1247269241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mudH
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 88
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfa359c00131fd4e81e51218168cbea
+      internalID: 288006011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stone
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64b3dd252312c24f8629856fdb1cdea
+      internalID: 1136183880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 68
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faebc1c68df420e46ab365470ac3e34f
+      internalID: 512585381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneM
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099715be3c0c0494186b9327fd6a3393
+      internalID: 558368033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 68
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d0b24fb2807da42bd7fcd0d91adc97
+      internalID: 1397107323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneT
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 68
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f99862dcb3d94419d2871d5b981bf9
+      internalID: 374753883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 68
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98202100cffaf14caa86b53aa0c04ae
+      internalID: -686249569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stoneH
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 68
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbee593ac29cfcf4eb985a455c86ec6a
+      internalID: 38864390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sand
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae9aae12eefd874bb4fefa084ec95ff
+      internalID: -558221276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 48
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95b6aeaea24acb48a97d568b292096a
+      internalID: -1717385030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandM
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 48
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9d5b8bbcb3884dbd65e19ffcbf2cc
+      internalID: 499896235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 48
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd9a6974f3b0c44da7daa3ec4204cd2
+      internalID: -1444156650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandT
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 48
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fcd0dc8957dfd0459c8f91d83b40951
+      internalID: -63288254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 48
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f428958acdcb8b4c8a93238d7e77ae3
+      internalID: -88202192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sandH
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 48
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8891dca4f0ad8554da4c53a952fdcde3
+      internalID: -1317132101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ice
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e028781fdfab3b4bb8ce7b839ad43a8
+      internalID: -68205245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ffb6436b0ea20247aaab4ced920c061
+      internalID: 1338275981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceM
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6fe1bcdaa6e54b47adb6b8317d86c8c
+      internalID: 1272317147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 28
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d2bd27fabf42cb419dcaa9dc36c9cd9
+      internalID: 908234784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceT
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 28
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f171e2e0bebca4eb52286b6bf29536
+      internalID: -1687497930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iso_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 28
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889f63e2eda56884c97db96e3fbd2d51
+      internalID: -1806477239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: iceH
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 28
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0c1045f4e81244f9cc833fce139a95
+      internalID: -1854772073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicatorBlue1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e214482c782f94380e19438fb936d2
+      internalID: 26486768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicatorRed1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 8
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28fa91fc85c44c4eb5418f9acba466c
+      internalID: 1467201007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicatorGreen1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 8
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ddfbd3a0cbc744ab689a506dda4982
+      internalID: -198016530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicatorBlue2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 8
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253c84fecdd89024fbcad39fbfaedf44
+      internalID: 1639449014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicatorRed2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 8
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf8d4f13bdb3714ba54961c39806175
+      internalID: -1938353744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: indicatorGreen2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 8
+        width: 18
+        height: 19
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6842105}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e390241977a1c7e41889cb7545f8d734
+      internalID: 19885112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mudH: 288006011
+      mud: 1185394733
+      iso_8: 1202060964
+      iso_10: -1564726099
+      iso_26: -88202192
+      sand: -558221276
+      indicatorBlue1: 26486768
+      stoneM: 558368033
+      plainsT: 122700423
+      iso_5: 2057943315
+      iso_12: 1247269241
+      mudT: -1412203328
+      mudM: 58545801
+      iceT: -1687497930
+      iceH: -1854772073
+      iso_3: 881599047
+      plainsM: 500991174
+      indicatorRed1: 1467201007
+      sandT: -63288254
+      sandM: 499896235
+      indicatorRed2: -1938353744
+      iso_22: -1717385030
+      indicatorBlue2: 1639449014
+      sandH: -1317132101
+      ice: -68205245
+      iso_19: -686249569
+      iso_24: -1444156650
+      plains: 1044988923
+      iso_1: 2127318303
+      iceM: 1272317147
+      iso_15: 512585381
+      stoneH: 38864390
+      iso_29: 1338275981
+      indicatorGreen1: -198016530
+      stone: 1136183880
+      iso_17: 1397107323
+      indicatorGreen2: 19885112
+      iso_31: 908234784
+      plainsH: 1353577829
+      stoneT: 374753883
+      iso_33: -1806477239
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
